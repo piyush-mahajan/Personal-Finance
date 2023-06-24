@@ -18,9 +18,10 @@ This Expense Tracker is a web application designed to help you manage and track 
 
 To run the Expense Tracker locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/expense-tracker.git`
-2. Navigate to the project directory: `cd expense-tracker`
-3. Open the `index.html` file in your web browser.
+1. Fork the repository.
+2. Clone the repository: `git clone https://github.com/your-username/expense-tracker.git`
+3. Navigate to the project directory: `cd expense-tracker`
+4. Open the `index.html` file in your web browser.
 
 ## Usage
 
