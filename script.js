@@ -26,9 +26,8 @@ const modifyElement = (element, edit = false) => {
     userAmount.value = parentAmount;
     disableButtons(true);
   }
-
   expenditureValue.innerText =
-    parseInt(currentExpense) - parseInt(parentAmount);
+    parseInt(currentExpense) - parseInt(parentAmount.slice(1, parentAmount.length));
   parentDiv.remove();
 };
 
@@ -61,6 +60,14 @@ addExpensesButton.addEventListener("click", () => {
     productTitleError.classList.remove("hide");
     setInterval(() => {
       productTitleError.classList.add("hide");
+    }, 2000);
+    return false;
+  }
+
+  if (userAmount.value < 0) {
+    productCostError.classList.remove("hide");
+    setInterval(() => {
+      productCostError.classList.add("hide");
     }, 2000);
     return false;
   }
