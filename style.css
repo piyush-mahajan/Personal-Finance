@@ -139,6 +139,9 @@ body {
   color: #018786;
 }
 @media screen and (max-width: 600px) {
+  .user-amount-container {
+    width: auto;
+  }
   .wrapper {
     font-size: 14px;
   }
