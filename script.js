@@ -59,6 +59,9 @@ const listCreator = (expenseName, expenseValue) => {
 addExpensesButton.addEventListener("click", () => {
   if (!userAmount.value || !productTitle.value) {
     productTitleError.classList.remove("hide");
+    setInterval(() => {
+      productTitleError.classList.add("hide");
+    }, 2000);
     return false;
   }
 
