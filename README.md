@@ -41,5 +41,5 @@ Contributions are welcome! If you have any ideas or suggestions to improve this 
 
 ## Contact
 
-For any questions or inquiries, please contact [Piyush-Mahajan](https://piyush-mahajan.netlify.app).
+For any questions or inquiries, please contact [Piyush-Mahajan](https://piyush-mahajan.netlify.app) or [Monson Verghese](https://monson2002-portfolio-2023.netlify.app/).
 
