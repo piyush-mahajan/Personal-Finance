@@ -40,5 +40,5 @@ Contributions are welcome! If you have any ideas or suggestions to improve this 
 
 ## Contact
 
-For any questions or inquiries, please contact [your-name](mailto:your-email@example.com).
+For any questions or inquiries, please contact [Piyush-Mahajan](https://piyush-mahajan.netlify.app).
 
