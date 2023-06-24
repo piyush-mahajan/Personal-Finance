@@ -1,7 +1,3 @@
-<img width="960" alt="2" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/17c9c9a5-9b6e-436a-b290-6bfd0e1555bd">
-![Uploading 3.png…]()
-![Uploading 4.png…]()
-<img width="960" alt="5" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/5aadafb8-65fe-40df-91ff-d4e43a9718bf">
 # Expense Tracker
 
 This Expense Tracker is a web application designed to help you manage and track your expenses. It allows you to enter the title and cost of each product, and keeps a running total of your daily expenses.
@@ -87,9 +83,12 @@ It's important to note that while GitHub Copilot provides useful code suggestion
 
 ## Screen Shots
 <img width="960" alt="1" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/21e618fc-a6d6-4653-86ee-0eee5c9d209d">
-![Uploading 6.png…]()
-![Uploading 7.png…]()
-
+<img width="960" alt="2" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/17c9c9a5-9b6e-436a-b290-6bfd0e1555bd">
+<img width="959" alt="3" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/1b22da43-2ab3-44a4-827f-807baa9a5fff">
+<img width="960" alt="4" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/f6862fc7-1871-4a12-8f06-94aadcbd6355">
+<img width="960" alt="5" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/5aadafb8-65fe-40df-91ff-d4e43a9718bf">
+<img width="960" alt="6" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/b3032c6d-6d46-41de-9575-23e8b71ceb9a">
+<img width="955" alt="7" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/c733d0d6-87c6-4a66-bceb-092d39d0d036">
 
 ## Contributing
 
