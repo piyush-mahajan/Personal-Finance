@@ -1,3 +1,7 @@
+<img width="960" alt="2" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/17c9c9a5-9b6e-436a-b290-6bfd0e1555bd">
+![Uploading 3.png…]()
+![Uploading 4.png…]()
+<img width="960" alt="5" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/5aadafb8-65fe-40df-91ff-d4e43a9718bf">
 # Expense Tracker
 
 This Expense Tracker is a web application designed to help you manage and track your expenses. It allows you to enter the title and cost of each product, and keeps a running total of your daily expenses.
@@ -80,6 +84,11 @@ GitHub Copilot can suggest code examples and best practices for specific tasks o
 When encountering errors or bugs in your code, GitHub Copilot can assist in troubleshooting by suggesting possible solutions based on the error message or code context. It can help in identifying and fixing common programming mistakes, saving time and effort in the debugging process.
 
 It's important to note that while GitHub Copilot provides useful code suggestions, it's always recommended to review and validate the suggested code snippets to ensure they align with your project requirements and follow best coding practices.
+
+## Screen Shots
+<img width="960" alt="1" src="https://github.com/piyush-mahajan/Personal-Finance/assets/91113152/21e618fc-a6d6-4653-86ee-0eee5c9d209d">
+![Uploading 6.png…]()
+![Uploading 7.png…]()
 
 
 ## Contributing
